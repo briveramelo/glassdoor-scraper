@@ -1,0 +1,6 @@
+# How to Use
+- copy/paste into chrome web console from the Glassdoor company's first review page
+- sit back and wait
+
+# How it works
+- Will load each web page, store ratings to memory, and then prompt you to save a .csv file with all ratings when done.
